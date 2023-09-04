@@ -1,4 +1,4 @@
-Hi! I am **Vintana**, I am currently still growing my github account.
+Hi! I am **Vintana**, I am currently still growing my Github account.
 
 
 <!--
