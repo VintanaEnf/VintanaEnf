@@ -1,7 +1,4 @@
-Hi! I am **Vintana**, I am currently growing my **GitHub** account.
-
-
-
+Hi! I am **Vintana**, I am currently growing my **GitHub** account this year.
 <!--
 **VintanaEnf/VintanaEnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
