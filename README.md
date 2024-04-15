@@ -1,4 +1,4 @@
-Hello.
+$\sqrt{3x-1}+(1+x)^2$
 <!--
 **VintanaEnf/VintanaEnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
