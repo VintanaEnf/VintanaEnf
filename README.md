@@ -1,6 +1,7 @@
-Hello.
+Hi! I'm Vintana. I've recently discovered a passion for game development, but I prefer to keep it as a hobby at the moment.
 
-View my itch.io page [here](https://vintana.itch.io/).
+Feel free to explore the games I've contributed to in my [itch.io page](https://vintana.itch.io/).
+
 <!--
 **VintanaEnf/VintanaEnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
