@@ -1,5 +1,3 @@
-Hi! I'm Vintana. I've recently discovered a passion for game development, but I prefer to keep it as a hobby at the moment.
-
 Feel free to explore the games I've contributed to in my [itch.io page](https://vintana.itch.io/).
 
 <!--
