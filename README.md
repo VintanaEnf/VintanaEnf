@@ -1,11 +1,14 @@
-<p>
-  <img src="https://github.com/user-attachments/assets/d4a9ad0d-c92d-4a6b-8f50-d44df4ec6a96" align="center" width="64" />
-  Hi! My username is <b>Yntana</b>, I code sometimes I guess... 
-  Feel free to explore the games I've contributed to in my <a href="https://vintana.itch.io/">itch.io</a> page.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f620f9ba-5b71-4ef3-be29-5e406e58625e" align="center" width="64" style="vertical-align: middle;" />
+  <span style="margin: 0 10px;">
+    Hi! I'm <b>Yntana</b>, I write code (sometimes games, sometimes not). 
+    You can check out some of the games on my 
+    <a href="https://vintana.itch.io/">itch.io</a> page.
+  </span>
+  <img src="https://github.com/user-attachments/assets/d4a9ad0d-c92d-4a6b-8f50-d44df4ec6a96" width="64" align="center" style="vertical-align: middle;" />
+</p>
 
 <p align="center"><b>Comfortable with:</b></p>
-
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
