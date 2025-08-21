@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
-<p align="center"><i>(yep, it’s the standard vanilla set)</i></p>
+<p align="center"><i>(yep, it’s the standard vanilla set all CS grads are equipped with)</i></p>
 <br clear="both">
 
 <p align="center"><b>Previously worked with these tools and languages:</b></p>
