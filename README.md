@@ -2,8 +2,8 @@
   <img src="https://github.com/user-attachments/assets/f620f9ba-5b71-4ef3-be29-5e406e58625e" align="center" width="64" style="vertical-align: middle;" />
   <span style="margin: 0 10px;">
     Hi! I'm <b>Yntana</b>, I write code (sometimes games, sometimes not). 
-    You can check out some of the games on my 
-    <a href="https://vintana.itch.io/">itch.io</a> page.
+    You can check out some of them 
+    <a href="https://vintana.itch.io/">here</a>.
   </span>
   <img src="https://github.com/user-attachments/assets/d4a9ad0d-c92d-4a6b-8f50-d44df4ec6a96" width="64" align="center" style="vertical-align: middle;" />
 </p>
